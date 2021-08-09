@@ -1,0 +1,20 @@
+/* mobile  */
+@media (max-width: 740) {
+    #nav > li {
+        display: block;
+    }
+    #header .search-btn {
+        display: none;
+    }
+    #header .mobile-menu-bnt {
+        
+    }
+}
+/* tablet  */
+@media ( min-width: 740px) and (max-width:1024px){
+
+}
+/* pc  */
+@media (min-width:1024px) {
+
+}
