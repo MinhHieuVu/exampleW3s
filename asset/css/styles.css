@@ -197,6 +197,9 @@ html {
     width: 154px;
     border-radius: 4px;
 }
+/*#slider{*/
+/*    background-image: url('/asset/img/slider/slider1.jpg');*/
+/*}*/
 /* tour section  */
 #content .tour-section {
     background: #000;

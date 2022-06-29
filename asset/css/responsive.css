@@ -1,5 +1,5 @@
 /* mobile  */
-@media (max-width: 740) {
+@media (max-width: 740px) {
     #nav > li {
         display: block;
     }
