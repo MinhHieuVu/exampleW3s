@@ -1,4 +1,7 @@
 /* Reset CSS  */
+
+
+
 * {
     padding: 0;
     margin: 0;
@@ -65,7 +68,7 @@ html {
 #nav {
     display: inline-block;
 }
-#nav, .subnav {
+#nav .subnav {
     list-style-type: none;
 }
 #nav > li {
@@ -131,6 +134,8 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
+    /*background-image: url('/asset/img/slider/slider1.jpg');*/
+
 
 }
 #slider .text-content {
@@ -148,7 +153,7 @@ html {
     font-weight: 500;
     margin-bottom: 25px;
 }
-#slider .text-discription {
+#slider .text-description {
     font-size: 15px;
 }
 #content {
@@ -157,7 +162,7 @@ html {
 #content .content-section {
     width: 800px;
     max-width: 100%;
-    padding : 64px 0 112px;
+    padding-top : 64px ;
     margin-left: auto;
     margin-right: auto;
     padding-left: 16px;
@@ -197,10 +202,7 @@ html {
     width: 154px;
     border-radius: 4px;
 }
-/*#slider{*/
-/*    background-image: url('/asset/img/slider/slider1.jpg');*/
-/*}*/
-/* tour section  */
+
 #content .tour-section {
     background: #000;
 }
