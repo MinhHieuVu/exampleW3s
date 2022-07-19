@@ -339,6 +339,10 @@ html {
     color: rgba(0, 0, 0, 0.6);
 }
 
+ul li {
+    list-style: none;
+}
+
 /* PC:>=1024px  */
     
 /* tablet >=740px & < 1024px */
